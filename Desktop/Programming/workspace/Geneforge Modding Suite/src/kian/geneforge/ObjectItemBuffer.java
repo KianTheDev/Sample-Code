@@ -1,7 +1,7 @@
 /**=============================================================================================**/
-/* A data loader for information about objects and items relevant to the modding suite.			**/
-/* It buffers the definitions file for each and parses the script for data.						**/
-/* This allows for using new, custom items added by a modder to the file.						**/
+/* A data loader for information about objects and items relevant to the modding suite.         **/
+/* It buffers the definitions file for each and parses the script for data.                     **/
+/* This allows for using new, custom items added by a modder to the file.                       **/
 /**=============================================================================================**/
 
 package kian.geneforge;
